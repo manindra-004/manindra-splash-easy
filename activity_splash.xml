@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".SplashActivity"
     android:background="#010203">
 
     <ImageView
@@ -15,7 +15,7 @@
         android:layout_marginTop="100dp"
         android:layout_marginEnd="10dp"
         android:contentDescription="@string/todo"
-        android:src="@drawable/ani_logo"
+        android:src="@drawable/splash_logo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,7 +25,7 @@
         android:id="@+id/textView"
         android:layout_width="137dp"
         android:layout_height="22dp"
-        android:text="@string/treta_education"
+        android:text="MAN KIND"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -38,7 +38,7 @@
         android:id="@+id/textView2"
         android:layout_width="66dp"
         android:layout_height="21dp"
-        android:text="@string/est_2020"
+        android:text="Est-1998"
         android:textColor="#FFFFFF"
         android:textSize="14sp"
         android:textStyle="italic"
