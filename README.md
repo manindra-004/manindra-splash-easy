@@ -1,0 +1,1 @@
+# manindra-splash-easy
